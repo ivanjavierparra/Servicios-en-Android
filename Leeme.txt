@@ -1,0 +1,10 @@
+Esta app contiene la API de Servicios para el TP final de TNT.
+
+CONCECPTOS TEORICOS USADOS
+--------------------------
+*) Start Services
+*) Alarm Manager
+*) Thread
+*) Notificaction Manager
+*) Broadcast Receiver
+*) Intents
